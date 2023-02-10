@@ -1,0 +1,3 @@
+# Airline-Booking-System 
+When it comes to the features of airline booking, the system requires information such as the passenger's name, passport number, and email address. A reservation is made once all of these steps have been completed. The system delivers a seat number as evidence of reservation. To check tickets, the user must first submit a seat number, after which the system will search the database for the appropriate tickets and provide the results. The technology makes canceling a flight reservation simple; the user only has to enter their seat number.
+Airline Booking was created with the help of the C programming language, as well as various variables and strings. The simplest method for airplane bookings is provided by this little project.
